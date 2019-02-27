@@ -17,19 +17,25 @@
     
     
     <entry>
-      <title>hi</title>
+      <title>xamarin.forms Resource ID #0x0 </title>
       <link href="/2019/02/25/hi/"/>
       <url>/2019/02/25/hi/</url>
       
-        <content type="html"><![CDATA[<p>ddfdaf</p>]]></content>
+        <content type="html"><![CDATA[<p>xamarin.forms Android.Content.Res.Resources+NotFoundException: Resource ID #0x0 </p><p>在编写xamarin时，使用了tabbedpage,每一个都配置了title 和icon，然后调试ios正常，在调试Android时提示错误 Android.Content.Res.Resources+NotFoundException: Resource ID #0x0，资源找不到，什么资源呢，经过排查是contentpage 的icon资源，去掉再调试正常。</p>]]></content>
       
       
       <categories>
           
-          <category> Essays </category>
+          <category> Tech </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> xamarin </tag>
+            
+        </tags>
       
     </entry>
     
